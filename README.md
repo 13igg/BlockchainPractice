@@ -2,12 +2,12 @@
 This repo contains code produced from multiple tutorials, online courses, and walkthroughs. Nothing within this repo is original, this is just sourcing my travels through the blockchain; from representing the bare minimums of a blockchain with a python array to recognizing and exploiting security holes in ethereum contracts, this repo has it all.
 
 # Python
-## My First Blockchain
+### My First Blockchain
 Tutorial Link : https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 Created a trivial private Python blockchain complete with the ability to mine new blocks, consensus transaction control, and api endpoint mappings via Flask. 
 
 # Solidity
-## Udemy Course Work
+### Udemy Course Work
 Ethereum and Solidity: The Complete Developer's Guide
 https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/overview
 Created multiple solidity and react applications. More info below.
