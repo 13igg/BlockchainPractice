@@ -22,7 +22,9 @@ Covered basics of solidity such as prototyping in Remix, Compiling with solc, in
 
 #### lottery
 A manager would start a lottery, other people would contribute ether to the contract, and then when the manager closes the lotto, a random player would win the contract's balance. 
-Covered random numbers in solidity and how contracts can be manipulated by troublesome addresses. Deployed to the rinkeby chain via truffle and infura. 
+
+Covered random numbers in solidity and how contracts can be manipulated by troublesome addresses. Deployed to the rinkeby chain via truffle and infura.
+
 Bootstrapped a react app with Create React App to interact with the contract via web3 and metamask. 
 
 #### campaign
