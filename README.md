@@ -9,13 +9,14 @@ Created a trivial private Python blockchain complete with the ability to mine ne
 
 # Solidity
 ### Udemy Course Work
-Ethereum and Solidity: The Complete Developer's Guide
+Course 1 - Ethereum and Solidity: The Complete Developer's Guide
 
 https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/overview
 
 Created multiple solidity and react applications. More info below.
 
-Pass the Certified Blockchain Developer Exam - ETHEREUM
+
+Course 2 - Pass the Certified Blockchain Developer Exam - ETHEREUM
 
 https://www.udemy.com/ethereum-blockchain-certification/learn/v4/overview
 
@@ -41,7 +42,8 @@ A full blown next.js server side rendering react app with dynamic routing to int
 
 
 # ZEthernaut CTF 
-- https://ethernaut.zeppelin.solutions/level/0x234094aac85628444a82dae0396c680974260be7
+Link - https://ethernaut.zeppelin.solutions/level/0x234094aac85628444a82dae0396c680974260be7
+
 First bit of work I did on my own. Analyzing contracts and finding weaknesses in them. I am not posting the contracts/code for this one, but describing below the fault in the contracts and what I did to exploit them. 
 
 #### Fallback -- Functions are a thing
