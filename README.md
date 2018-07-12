@@ -40,7 +40,8 @@ Using one contract to manage and create multiple children contracts.
 A full blown next.js server side rendering react app with dynamic routing to interact with the campaign contract 
 
 
-# ZEthernaut CTF - https://ethernaut.zeppelin.solutions/level/0x234094aac85628444a82dae0396c680974260be7
+# ZEthernaut CTF 
+- https://ethernaut.zeppelin.solutions/level/0x234094aac85628444a82dae0396c680974260be7
 First bit of work I did on my own. Analyzing contracts and finding weaknesses in them. I am not posting the contracts/code for this one, but describing below the fault in the contracts and what I did to exploit them. 
 
 #### Fallback -- Functions are a thing
