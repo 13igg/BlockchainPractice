@@ -15,23 +15,23 @@ Created a trivial private Python blockchain complete with the ability to mine ne
 Private ethereum blockchain created using the geth commandline. View the readme within that project for more information. 
 
 # Solidity
-### Udemy Course Work
-https://www.udemy.com/user/matthewciaglia/
-`
-#### Course 1 - Ethereum and Solidity: The Complete Developer's Guide
+## Udemy Course Work
+* Public Profile: https://www.udemy.com/user/matthewciaglia/
+* Code for the courses are found in the Solidity folder
+
+### Course 1 - Ethereum and Solidity: The Complete Developer's Guide
 
 https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/overview
 
-Created multiple solidity and react applications. More info in the Solidity folder
+Created multiple solidity and react applications.
 
-
-#### Course 2 - Pass the Certified Blockchain Developer Exam - ETHEREUM
+### Course 2 - Pass the Certified Blockchain Developer Exam - ETHEREUM
 
 https://www.udemy.com/ethereum-blockchain-certification/learn/v4/overview
 
 Covered basics of the blockchain all the way to more complex topic such as security, consensus algorithms, and then finally coding in solidity.
 
-#### Course 3 - Ethereum Blockchain Developer: Build Projects Using Solidity
+### Course 3 - Ethereum Blockchain Developer: Build Projects Using Solidity
 
 https://www.udemy.com/blockchain-developer/learn/v4/
 
