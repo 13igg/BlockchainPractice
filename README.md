@@ -7,6 +7,9 @@ Tutorial Link : https://hackernoon.com/learn-blockchains-by-building-one-1174286
 
 Created a trivial private Python blockchain complete with the ability to mine new blocks, consensus transaction control, and api endpoint mappings via Flask. 
 
+#PrivateEthereumBlockchain
+Private ethereum blockchain created using the geth commandline. View the readme within that project for more information. 
+
 # Solidity
 ### Udemy Course Work
 Course 1 - Ethereum and Solidity: The Complete Developer's Guide
