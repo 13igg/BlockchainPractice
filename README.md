@@ -9,8 +9,9 @@ Tutorial Link : https://hackernoon.com/learn-blockchains-by-building-one-1174286
 
 Created a trivial private Python blockchain complete with the ability to mine new blocks, consensus transaction control, and api endpoint mappings via Flask. 
 
-#PrivateEthereumBlockchain
+# PrivateEthereumBlockchain
 Private ethereum blockchain created using the geth commandline. View the readme within that project for more information. 
+
 
 # Solidity
 ### Udemy Course Work
@@ -27,15 +28,6 @@ https://www.udemy.com/ethereum-blockchain-certification/learn/v4/overview
 
 Covered basics of the blockchain all the way to more complex topic such as security, consensus algorithms, and then finally coding in solidity.
 
-
-### CryptoZombies
-Link - https://cryptozombies.io/
-
-Tutorial going through the stages of creating a solidity contract and interacting with external DAPPS. Featured creating an ERC721 token creation, standards, and conforming to public interfaces, such as those found on OpenZeppelin.com.
-
-
-### HelperContracts
-Contracts used in the UdemyCourseWork as well as in CryptoZombies. There are some file path errors in the projects just b/c of how I moved files around when sourcing them.
 
 # ZEthernaut CTF 
 Link - https://ethernaut.zeppelin.solutions/level/0x234094aac85628444a82dae0396c680974260be7

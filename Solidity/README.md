@@ -15,3 +15,13 @@ The largest by far of the demo applications. This covered creating a full fledge
 Using one contract to manage and create multiple children contracts. 
 
 A full blown next.js server side rendering react app with dynamic routing to interact with the campaign contract 
+
+
+### CryptoZombies
+Link - https://cryptozombies.io/
+
+Tutorial going through the stages of creating a multi contract solidity DAPP and interacting with external DAPPS. Featured creating an ERC721 token creation, standards, and conforming to public interfaces, such as those found on OpenZeppelin.com.
+
+
+### HelperContracts
+Contracts used in the UdemyCourseWork as well as in CryptoZombies. There are some file path errors in the projects just b/c of how I moved files around when sourcing them.
