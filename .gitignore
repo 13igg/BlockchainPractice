@@ -61,3 +61,7 @@ typings/
 .next
 
 .vscode
+
+#chaindatadirectory
+#No need to source this chain
+chaindata
