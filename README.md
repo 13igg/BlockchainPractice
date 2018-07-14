@@ -18,14 +18,14 @@ Course 1 - Ethereum and Solidity: The Complete Developer's Guide
 
 https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/overview
 
-Created multiple solidity and react applications. More info below.
+Created multiple solidity and react applications. More info in the Solidity folder
 
 
 Course 2 - Pass the Certified Blockchain Developer Exam - ETHEREUM
 
 https://www.udemy.com/ethereum-blockchain-certification/learn/v4/overview
 
-Covered basics of the blockchain all the way to more complex topic such as security, consensus algorithms, and then finally coding in solidity. (currently 25%+ through this course)
+Covered basics of the blockchain all the way to more complex topic such as security, consensus algorithms, and then finally coding in solidity.
 
 
 ### CryptoZombies
