@@ -1,4 +1,4 @@
-I plan on eventually adding the actual solutions to this repo, but as I solved them all in Remix, I didn't keep any of them. 
+### I plan on eventually adding the actual solutions to this repo, but as I solved them all in Remix, I didn't keep any of them. 
 
 #### Fallback -- Functions are a thing
 Claimed ownership of the contract by calling the fallback function(backup if no valid method is called)
