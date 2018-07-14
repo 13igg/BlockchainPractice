@@ -1,6 +1,8 @@
 # Introduction
 This repo contains code produced from multiple tutorials, online courses, and walkthroughs. Nothing within this repo is original, this is just sourcing my travels through the blockchain; from representing the bare minimums of a blockchain with a python array to recognizing and exploiting security holes in ethereum contracts, this repo has it all.
 
+Check the individual folders for more specific readmes
+
 # Python
 ### My First Blockchain
 Tutorial Link : https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
