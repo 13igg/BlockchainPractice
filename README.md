@@ -9,25 +9,29 @@ Tutorial Link : https://hackernoon.com/learn-blockchains-by-building-one-1174286
 
 Created a trivial private Python blockchain complete with the ability to mine new blocks, consensus transaction control, and api endpoint mappings via Flask. 
 
-# PrivateEthereumBlockchain
-Private ethereum blockchain created using the geth commandline. View the readme within that project for more information. 
-
 
 # Solidity
 ### Udemy Course Work
-Course 1 - Ethereum and Solidity: The Complete Developer's Guide
+https://www.udemy.com/user/matthewciaglia/
+`
+#### Course 1 - Ethereum and Solidity: The Complete Developer's Guide
 
 https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/learn/v4/overview
 
 Created multiple solidity and react applications. More info in the Solidity folder
 
 
-Course 2 - Pass the Certified Blockchain Developer Exam - ETHEREUM
+#### Course 2 - Pass the Certified Blockchain Developer Exam - ETHEREUM
 
 https://www.udemy.com/ethereum-blockchain-certification/learn/v4/overview
 
 Covered basics of the blockchain all the way to more complex topic such as security, consensus algorithms, and then finally coding in solidity.
 
+#### Course 3 - Ethereum Blockchain Developer: Build Projects Using Solidity
+
+https://www.udemy.com/blockchain-developer/learn/v4/
+
+Covered setting up and interacting with a private ethereum blockchain using geth. Went into debth on how smart contracts work at their lowest level, and deployed smart contracts to our private blockchain with Truffle
 
 # ZEthernaut CTF 
 Link - https://ethernaut.zeppelin.solutions/level/0x234094aac85628444a82dae0396c680974260be7
