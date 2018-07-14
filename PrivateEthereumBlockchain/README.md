@@ -1,4 +1,4 @@
-#Info
+# Info
 Geth documentation is found here:https://github.com/ethereum/go-ethereum/
 
 This repo is to contain any starter files I found useful when working with Geth. It very well might turn out to just be this readme and the genesis block.
@@ -29,6 +29,8 @@ Start the miner so that our account can get some Eth
 
 At this point, we can use web3 to query the chain to find our new account's balance
 * web3.fromWei(eth.getBalance(eth.accounts[0]),'ether')
+
+
 
 # 1 line startup mining magic
 geth --datadir .\chaindata --nodiscover --unlock 0 --mine 1
